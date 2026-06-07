@@ -61,7 +61,7 @@
         "accent": "#FFD600",
         "accentForeground": "#000000",
         "paragraph": "#000000",
-        "background": "#FFD600",
+        "background": "#FFD60033",
         "border": "#FFD600",
         "heading": "#000000",
         "icon": "#FFD600",
@@ -121,7 +121,7 @@
         "background": "#F2F2F7"
       },
       "selected": {
-        "background": "#FFD600",
+        "background": "#FFD60033",
         "paragraph": "#000000"
       }
     },
@@ -135,7 +135,7 @@
         "background": "#F2F2F7"
       },
       "selected": {
-        "background": "#FFD600",
+        "background": "#FFD60033",
         "paragraph": "#000000"
       }
     },
@@ -175,9 +175,9 @@
         "background": "#F2F2F7"
       },
       "selected": {
-        "background": "#FFD600",
+        "background": "#FFD60033",
         "paragraph": "#000000",
-        "icon": "#000000"
+        "icon": "#FFD600"
       }
     },
     "contextMenu": {
