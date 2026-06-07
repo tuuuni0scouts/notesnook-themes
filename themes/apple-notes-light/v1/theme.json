@@ -1,0 +1,207 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetwriters/notesnook-themes/main/schemas/v1.schema.json",
+  "name": "Apple Notes Light",
+  "id": "apple-notes-light",
+  "version": 1.0,
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://notesnook.com",
+  "description": "A light theme inspired by Apple Notes with authentic colors including white background and yellow accents.",
+  "colorScheme": "light",
+  "compatibilityVersion": 1,
+  "authors": [
+    {
+      "name": "Streetwriters",
+      "email": "support@streetwriters.co",
+      "url": "https://streetwriters.co"
+    }
+  ],
+  "tags": ["apple", "notes", "light", "minimal", "yellow"],
+  "scopes": {
+    "base": {
+      "primary": {
+        "accent": "#FFD600",
+        "accentForeground": "#000000",
+        "paragraph": "#000000",
+        "background": "#FFFFFF",
+        "border": "#E5E5EA",
+        "heading": "#000000",
+        "icon": "#8E8E93",
+        "separator": "#D2D2D7",
+        "placeholder": "#AEAEB2",
+        "hover": "#F2F2F7",
+        "backdrop": "#0000001A"
+      },
+      "secondary": {
+        "accent": "#FFD600",
+        "accentForeground": "#000000",
+        "paragraph": "#515154",
+        "background": "#F2F2F7",
+        "border": "#E5E5EA",
+        "heading": "#000000",
+        "icon": "#8E8E93",
+        "separator": "#D2D2D7",
+        "placeholder": "#AEAEB2",
+        "hover": "#E5E5EA",
+        "backdrop": "#0000001A"
+      },
+      "disabled": {
+        "accent": "#FFD600",
+        "accentForeground": "#000000",
+        "paragraph": "#AEAEB2",
+        "background": "#FFFFFF",
+        "border": "#E5E5EA",
+        "heading": "#AEAEB2",
+        "icon": "#AEAEB2",
+        "separator": "#D2D2D7",
+        "placeholder": "#AEAEB2",
+        "hover": "#00000000",
+        "backdrop": "#0000001A"
+      },
+      "selected": {
+        "accent": "#FFD600",
+        "accentForeground": "#000000",
+        "paragraph": "#000000",
+        "background": "#FFD600",
+        "border": "#FFD600",
+        "heading": "#000000",
+        "icon": "#FFD600",
+        "separator": "#D2D2D7",
+        "placeholder": "#AEAEB2",
+        "hover": "#F2F2F7",
+        "backdrop": "#0000001A"
+      },
+      "error": {
+        "accent": "#FF3B30",
+        "accentForeground": "#FFFFFF",
+        "paragraph": "#FF3B30",
+        "background": "#FFF2F2",
+        "border": "#E5E5EA",
+        "heading": "#FF3B30",
+        "icon": "#FF3B30",
+        "separator": "#D2D2D7",
+        "placeholder": "#AEAEB2",
+        "hover": "#F2F2F7",
+        "backdrop": "#0000001A"
+      },
+      "success": {
+        "accent": "#34C759",
+        "accentForeground": "#FFFFFF",
+        "paragraph": "#34C759",
+        "background": "#D4EDDA",
+        "border": "#E5E5EA",
+        "heading": "#34C759",
+        "icon": "#34C759",
+        "separator": "#D2D2D7",
+        "placeholder": "#AEAEB2",
+        "hover": "#F2F2F7",
+        "backdrop": "#0000001A"
+      }
+    },
+    "titleBar": {
+      "primary": {
+        "background": "#FFFFFF",
+        "paragraph": "#000000",
+        "icon": "#8E8E93"
+      }
+    },
+    "statusBar": {
+      "primary": {
+        "background": "#F2F2F7",
+        "paragraph": "#515154",
+        "icon": "#8E8E93"
+      }
+    },
+    "list": {
+      "primary": {
+        "background": "#FFFFFF",
+        "paragraph": "#000000",
+        "border": "#E5E5EA"
+      },
+      "secondary": {
+        "background": "#F2F2F7"
+      },
+      "selected": {
+        "background": "#FFD600",
+        "paragraph": "#000000"
+      }
+    },
+    "editor": {
+      "primary": {
+        "background": "#FFFFFF",
+        "paragraph": "#000000",
+        "border": "#E5E5EA"
+      },
+      "secondary": {
+        "background": "#F2F2F7"
+      },
+      "selected": {
+        "background": "#FFD600",
+        "paragraph": "#000000"
+      }
+    },
+    "editorToolbar": {
+      "primary": {
+        "background": "#F2F2F7",
+        "paragraph": "#000000",
+        "icon": "#8E8E93",
+        "border": "#E5E5EA"
+      },
+      "secondary": {
+        "background": "#E5E5EA"
+      }
+    },
+    "editorSidebar": {
+      "primary": {
+        "background": "#F2F2F7",
+        "paragraph": "#000000",
+        "border": "#E5E5EA"
+      }
+    },
+    "dialog": {
+      "primary": {
+        "background": "#F2F2F7",
+        "paragraph": "#000000",
+        "border": "#E5E5EA"
+      }
+    },
+    "navigationMenu": {
+      "primary": {
+        "background": "#FFFFFF",
+        "paragraph": "#000000",
+        "icon": "#8E8E93",
+        "hover": "#F2F2F7"
+      },
+      "secondary": {
+        "background": "#F2F2F7"
+      },
+      "selected": {
+        "background": "#FFD600",
+        "paragraph": "#000000",
+        "icon": "#000000"
+      }
+    },
+    "contextMenu": {
+      "primary": {
+        "background": "#F2F2F7",
+        "paragraph": "#000000",
+        "border": "#E5E5EA"
+      },
+      "secondary": {
+        "background": "#E5E5EA"
+      }
+    },
+    "sheet": {
+      "primary": {
+        "background": "#F2F2F7",
+        "paragraph": "#000000",
+        "border": "#E5E5EA"
+      },
+      "secondary": {
+        "background": "#E5E5EA"
+      },
+      "selected": {
+        "paragraph": "#FFD600"
+      }
+    }
+  }
+}
